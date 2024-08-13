@@ -3,13 +3,14 @@
 ## Collection of free proxies from the website https://pt.proxyservers.pro/ 
 The tool uses JavaScript to perform web scraping and uses Python to create a list of IPs and their respective ports, and save them in a .txt file
 
-
-
 ## Getting Started
 - Clone the repository: `git clone https://github.com/ON00dev/proxy-free.git`.
 - Go to the directory: `cd proxy-free`.
 - Run the script: `node main.js`.
 - After execution, access `proxy_list.txt` and there will be the free proxies!
+
+## Example of Use
+![Example Image](https://github.com/ON00dev/proxy-free/blob/main/_example.PNG)
 
 ## Contribute to this tool
 
